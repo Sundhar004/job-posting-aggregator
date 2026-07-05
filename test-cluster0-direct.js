@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const directUri = "mongodb://job_tracker_user:JobTracker2024@ac-rgxn4ai-shard-00-00.0krywdt.mongodb.net:27017,ac-rgxn4ai-shard-00-01.0krywdt.mongodb.net:27017,ac-rgxn4ai-shard-00-02.0krywdt.mongodb.net:27017/job_tracker?replicaSet=atlas-0krywdt-shard-0&ssl=true&authSource=admin";
+const directUri = your_mongoDB_atlas_url
 
 async function testDirectConnection() {
   console.log('Connecting directly to cluster0 using standard mongodb:// protocol...');
