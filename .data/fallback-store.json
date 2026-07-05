@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": "f1c13df7-ea9e-4f5b-9ca8-c32fc1466cf9",
+      "email": "test@example.com",
+      "name": "Test User",
+      "passwordHash": "$2a$10$Si0gy7udSz4XauMMditpd.G/tDdd7q4kQ1N7omXewDXW5HW1NAiVK",
+      "skills": [],
+      "createdAt": "2026-07-04T08:50:31.169Z",
+      "updatedAt": "2026-07-04T08:50:31.169Z"
+    },
+    {
+      "id": "1139defd-9f83-43ff-99e5-a38e7eac9eb1",
+      "email": "ramesundhar@gmail.com",
+      "name": "Sundhar",
+      "passwordHash": "$2a$10$I2ieSnT2k0MX1HvhZd441ut.nVgPr/VL5iGwVDQZ9/Wb3J3OCTNgO",
+      "skills": [
+        "C",
+        "TypeScript"
+      ],
+      "createdAt": "2026-07-04T09:24:57.243Z",
+      "updatedAt": "2026-07-04T19:02:51.755Z"
+    }
+  ],
+  "jobs": [
+    {
+      "userId": "f1c13df7-ea9e-4f5b-9ca8-c32fc1466cf9",
+      "rawText": "Job Title: Senior Software Engineer\nCompany: Acme Tech Corporation\nLocation: San Francisco, CA\nWork Mode: Remote\nSalary: $120,000 - $140,000 per year\n\nRequired Skills: Node.js, TypeScript, MongoDB, REST APIs, Docker, AWS, Kubernetes\nExperience Required: 5+ years\nApplication Deadline: July 31, 2026\n\nWe are looking for an experienced Senior Software Engineer to join our team.",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Acme Tech Corporation",
+      "location": "San Francisco, CA",
+      "workMode": "remote",
+      "requiredSkills": [
+        "Node"
+      ],
+      "experienceRequired": null,
+      "salaryRange": "$120,000 - $140,000 per year",
+      "applicationDeadline": null,
+      "jdSummary": "Job Title: Senior Software Engineer\nCompany: Acme Tech Corporation\nLocation: San Francisco, CA\nWork Mode: Remote\nSalary: $120,000 - $140,000 per year\n\nRequired Skills: Node.js, TypeScript, MongoDB, RE",
+      "matchPercent": 0,
+      "status": "Saved",
+      "notes": "",
+      "id": "740d49d1-26a4-46b7-9cf0-dda4bed44a90",
+      "createdAt": "2026-07-04T16:38:10.128Z",
+      "updatedAt": "2026-07-04T16:38:10.128Z"
+    },
+    {
+      "userId": "1139defd-9f83-43ff-99e5-a38e7eac9eb1",
+      "rawText": "Job Title: Senior Software Engineer\nCompany: Acme Tech\nLocation: Remote / US\nEmployment Type: Full-time\nSalary: $120,000 - $145,000 per year\n\nAbout the role:\nAcme Tech is seeking a Senior Software Engineer to build scalable backend services for our SaaS platform. You will collaborate with product, design, and QA to deliver high-performance APIs and reliable systems.\n\nResponsibilities:\n- Design, develop, and maintain RESTful APIs using Node.js and TypeScript\n- Build scalable microservices and integrate with MongoDB\n- Write clean, testable code and participate in code reviews\n- Optimize performance and reliability of backend systems\n- Mentor junior engineers and contribute to architecture decisions\n\nRequired skills:\n- 5+ years of software engineering experience\n- Strong JavaScript/TypeScript and Node.js expertise\n- Experience with MongoDB or other NoSQL databases\n- Familiarity with REST APIs, microservices, and cloud deployment\n- Excellent communication and collaboration skills\n\nPreferred qualifications:\n- Experience with Next.js or React\n- Knowledge of containers and Docker\n- Prior work in AI-powered or SaaS products\n- Bachelor’s degree in Computer Science or related field",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Acme Tech",
+      "location": "Remote / US",
+      "workMode": "remote",
+      "requiredSkills": [
+        "- 5+ years of software engineering experience",
+        "Preferred qualifications:"
+      ],
+      "experienceRequired": null,
+      "salaryRange": "$120,000 - $145,000 per year",
+      "applicationDeadline": null,
+      "jdSummary": "Job Title: Senior Software Engineer\nCompany: Acme Tech\nLocation: Remote / US\nEmployment Type: Full-time\nSalary: $120,000 - $145,000 per year\n\nAbout the role:\nAcme Tech is seeking a Senior Software Eng",
+      "matchPercent": 0,
+      "status": "Saved",
+      "notes": "",
+      "id": "9e85a684-fa87-4215-ace6-42576e906cf1",
+      "createdAt": "2026-07-04T16:56:29.163Z",
+      "updatedAt": "2026-07-04T16:56:29.163Z"
+    },
+    {
+      "userId": "1139defd-9f83-43ff-99e5-a38e7eac9eb1",
+      "rawText": "Job Title: Senior Software Engineer\nCompany: Acme Tech\nLocation: Remote / US\nEmployment Type: Full-time\nSalary: $120,000 - $145,000 per year\n\nAbout the role:\nAcme Tech is seeking a Senior Software Engineer to build scalable backend services for our SaaS platform. You will collaborate with product, design, and QA to deliver high-performance APIs and reliable systems.\n\nResponsibilities:\n- Design, develop, and maintain RESTful APIs using Node.js and TypeScript\n- Build scalable microservices and integrate with MongoDB\n- Write clean, testable code and participate in code reviews\n- Optimize performance and reliability of backend systems\n- Mentor junior engineers and contribute to architecture decisions\n\nRequired skills:\n- 5+ years of software engineering experience\n- Strong JavaScript/TypeScript and Node.js expertise\n- Experience with MongoDB or other NoSQL databases\n- Familiarity with REST APIs, microservices, and cloud deployment\n- Excellent communication and collaboration skills\n\nPreferred qualifications:\n- Experience with Next.js or React\n- Knowledge of containers and Docker\n- Prior work in AI-powered or SaaS products\n- Bachelor’s degree in Computer Science or related field",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Acme Tech",
+      "location": "US",
+      "workMode": "remote",
+      "requiredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "NoSQL databases",
+        "REST APIs",
+        "microservices",
+        "cloud deployment",
+        "communication",
+        "collaboration",
+        "Next.js",
+        "React",
+        "containers",
+        "Docker"
+      ],
+      "experienceRequired": "5+ years",
+      "salaryRange": "$120,000 - $145,000 per year",
+      "applicationDeadline": null,
+      "jdSummary": "Acme Tech is seeking a Senior Software Engineer to build scalable backend services for their SaaS platform. This remote role involves designing and developing RESTful APIs using Node.js and TypeScript, integrating with MongoDB, and optimizing system performance. Candidates should have 5+ years of experience, strong JavaScript/TypeScript and Node.js expertise, and familiarity with microservices and cloud deployment.",
+      "matchPercent": 0,
+      "status": "Saved",
+      "notes": "",
+      "id": "ebb44fd0-ed95-4faf-b445-a4bd8318fae0",
+      "createdAt": "2026-07-04T17:52:13.568Z",
+      "updatedAt": "2026-07-04T17:52:13.568Z"
+    },
+    {
+      "userId": "1139defd-9f83-43ff-99e5-a38e7eac9eb1",
+      "rawText": "Job Title: Senior Software Engineer\nCompany: Acme Tech\nLocation: Remote / US\nEmployment Type: Full-time\nSalary: $120,000 - $145,000 per year\n\nAbout the role:\nAcme Tech is seeking a Senior Software Engineer to build scalable backend services for our SaaS platform. You will collaborate with product, design, and QA to deliver high-performance APIs and reliable systems.\n\nResponsibilities:\n- Design, develop, and maintain RESTful APIs using Node.js and TypeScript\n- Build scalable microservices and integrate with MongoDB\n- Write clean, testable code and participate in code reviews\n- Optimize performance and reliability of backend systems\n- Mentor junior engineers and contribute to architecture decisions\n\nRequired skills:\n- 5+ years of software engineering experience\n- Strong JavaScript/TypeScript and Node.js expertise\n- Experience with MongoDB or other NoSQL databases\n- Familiarity with REST APIs, microservices, and cloud deployment\n- Excellent communication and collaboration skills\n\nPreferred qualifications:\n- Experience with Next.js or React\n- Knowledge of containers and Docker\n- Prior work in AI-powered or SaaS products\n- Bachelor’s degree in Computer Science or related field",
+      "jobTitle": "Senior Software Engineer",
+      "companyName": "Acme Tech",
+      "location": "Remote / US",
+      "workMode": "remote",
+      "requiredSkills": [
+        "- 5+ years of software engineering experience",
+        "Preferred qualifications:"
+      ],
+      "experienceRequired": null,
+      "salaryRange": "$120,000 - $145,000 per year",
+      "applicationDeadline": null,
+      "jdSummary": "Job Title: Senior Software Engineer\nCompany: Acme Tech\nLocation: Remote / US\nEmployment Type: Full-time\nSalary: $120,000 - $145,000 per year\n\nAbout the role:\nAcme Tech is seeking a Senior Software Eng",
+      "matchPercent": 0,
+      "status": "Saved",
+      "notes": "",
+      "id": "351b9300-e7c2-4f0c-a4a0-5af82b0985ae",
+      "createdAt": "2026-07-04T18:01:32.015Z",
+      "updatedAt": "2026-07-04T18:01:32.015Z"
+    }
+  ]
+}
