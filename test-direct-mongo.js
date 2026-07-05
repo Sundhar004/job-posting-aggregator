@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Direct standard connection string using the resolved shard hosts
-const directUri = "mongodb://crowdpriceuser:Sundu232004@ac-61ktelz-shard-00-00.wdsx71h.mongodb.net:27017,ac-61ktelz-shard-00-01.wdsx71h.mongodb.net:27017,ac-61ktelz-shard-00-02.wdsx71h.mongodb.net:27017/job_tracker?replicaSet=atlas-61ktelz-shard-0&ssl=true&authSource=admin";
+const directUri = your_mongoDB_url;
 
 async function testDirectConnection() {
   console.log('Connecting directly using standard mongodb:// protocol...');
