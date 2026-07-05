@@ -275,8 +275,3 @@ Add secrets to your GitHub repository:
 ### Action APIs
 * **POST** `/api/extract` — Scrapes URL or accepts raw text, pipes it to Gemini, and returns extracted JSON data.
 * **GET** `/api/export` — Streams down a complete CSV file of all user job applications.
-
----
-
-## 🔗 Live Demo
-* **Deployable Link**: [Render Deployment](https://render.com)
