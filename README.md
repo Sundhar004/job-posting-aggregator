@@ -278,15 +278,5 @@ Add secrets to your GitHub repository:
 
 ---
 
-## 🖼️ Interface Preview
-
-### Dashboard Kanban Board
-![Dashboard Preview](https://via.placeholder.com/1200x600/171725/FFFFFF?text=JobAgent+Kanban+Dashboard+Preview)
-
-### AI Job Extraction Form
-![AI Extraction Preview](https://via.placeholder.com/1200x600/171725/FFFFFF?text=AI+Scraping+And+Structured+Extraction+Form)
-
----
-
 ## 🔗 Live Demo
 * **Deployable Link**: [Render Deployment](https://render.com)
